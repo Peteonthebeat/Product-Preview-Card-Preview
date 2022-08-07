@@ -18,7 +18,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-[product-preview-potb-screenshot.jpg]
+![](./product-preview-potbscreenshot.jpg)
 
 ### Links
 
@@ -27,7 +27,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## My process
 
-Usually, I first lay down all the HTML and then move to the CSS. Along with this I also upload all the fonts, and clear some browser defaults.
+Usually, I first lay down all the HTML and then move to the CSS. Along with this I also upload all the fonts, and clear some browser defaults, which is also what I did for this challenge. 
 
 ### Built with
 
